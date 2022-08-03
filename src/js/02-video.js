@@ -19,5 +19,5 @@ function timeRec(currentTime) {
 function timeRed() {
     if (seconds) {
     playerEl.setCurrentTime(seconds.seconds);
-}
+    } return 0;
 };
